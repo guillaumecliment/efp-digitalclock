@@ -1,0 +1,17 @@
+
+/* centrer verticalement et horizontalement les éléments en utilisant flexbox */
+/* taille horloge 10em */
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
+button {
+    background-color: blueviolet;
+    color: white;
+}
+.clockSpan{
+    font-size: 100px;
+}
